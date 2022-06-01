@@ -102,6 +102,10 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
+            Text(
+              '[Test] IntelliJ & Upsource 사용하기',
+              style: Theme.of(context).textTheme.headline2,
+            ),
           ],
         ),
       ),
